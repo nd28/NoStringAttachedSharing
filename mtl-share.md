@@ -19,7 +19,7 @@ Everything is stored on your device in IndexedDB — there is no backend and no 
 
 ## What you can do
 
-- **Today** — greeting, resume a mix, see new saves and shelf highlights.
+- **Today** (home screen) — a greeting, a "resume last mix" shortcut, and highlights of recent saves and shelves.
 - **Feed** — stream of saves with type filters.
 - **Save** — quick-save: paste a link, pick media, record (also the share-target landing page).
 - **Mixes** — create playlists ("mixes") and get suggestions for a mood; play a mix.
