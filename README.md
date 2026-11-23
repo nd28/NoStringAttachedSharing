@@ -10,20 +10,25 @@ because anyone asked.
 
 ## What's inside
 
+### Apps
+
+| File | What it is |
+|------|------------|
+| [`mtl-share.md`](./mtl-share.md) | mtl — a local-first mood mix app: features, purpose, and a download link |
+
+### Neovim
+
 | File | What it is |
 |------|------------|
 | [`nvim-video-share.md`](./nvim-video-share.md) | Why I'm sharing *"Effective Neovim setup for agentic coding towards 2027"* — and why it might click for you too |
 | [`nvim-basics.md`](./nvim-basics.md) | A gentle, zero-jargon introduction to Neovim for absolute beginners |
 | [`glossary.md`](./glossary.md) | Plain-language definitions for the terms that show up in Neovim land |
-| [`mtl-share.md`](./mtl-share.md) | mtl — a local-first mood mix app: features, purpose, and a download link |
 
 ## Where to start
 
-New to Neovim? Read [`nvim-basics.md`](./nvim-basics.md) first, then the
-[`glossary.md`](./glossary.md) when a word confuses you.
-
-Already comfortable? Jump straight to [`nvim-video-share.md`](./nvim-video-share.md)
-and watch the video — it's ASMR, no talking, just a beautiful setup coming together.
+Pick whatever interests you. If Neovim is new to you, [`nvim-basics.md`](./nvim-basics.md)
+is a friendly entry point; otherwise the [`glossary.md`](./glossary.md) covers the
+vocabulary. For the app, head to [`mtl-share.md`](./mtl-share.md).
 
 ## A note on tone
 
