@@ -35,11 +35,9 @@ Auto-backups and exports go to `Documents/mtl-backups/` on the device.
 
 ## Installing the Android build
 
-1. Download `app-debug.apk` from the release link above.
+1. Download the APK from the release link above.
 2. On your Android device, allow installing from your browser/file manager.
 3. Open the APK and install.
-
-Note: this is a debug build, so expect rough edges. A release build will follow.
 
 ## Technical details (optional)
 
