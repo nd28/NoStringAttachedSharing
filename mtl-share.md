@@ -14,8 +14,9 @@ Everything is stored on your device in IndexedDB — there is no backend and no 
 
 1. Download and install the APK from the link above, then open mtl. You land on **Today** with
    an empty state and a prompt to compose your first item. Nothing is uploaded anywhere.
-2. Tap **Compose** → **Record** to capture a meeting (audio sketch) or a quiet moment (note +
-   photo). Give it a short title and a vibe (mood tag) that matches how it feels.
+2. Tap **Compose** (the round button with a plus icon in the bottom-right corner) → **Record**
+   to capture a meeting (audio sketch) or a quiet moment (note + photo). Give it a short title
+   and a vibe (mood tag) that matches how it feels.
 3. Save it — it shows up on Today and in the Feed.
 4. Go to **Mixes → New mix**, name it after the moment (e.g. "Peaceful morning"), and add the
    captures you just made.
