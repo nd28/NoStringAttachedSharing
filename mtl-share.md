@@ -25,10 +25,16 @@ Everything is stored on your device in IndexedDB — there is no backend and no 
 
 ## Why I'm sharing it
 
-- It is a fully offline, no-account app — your data stays on your device.
-- It is built to be shared into: from Instagram, YouTube, Pinterest etc. via the Android
-  share sheet, or as a PWA share target.
-- It shows how far a local-first, single-device app can go without a server.
+- It's a personal space: privacy, calm, peace and reflection. For neurodivergent folks
+  especially, it's meant to be the app in your phone that's always ready to be your
+  go-to place.
+- All the familiar social-style elements (notes, comments, reactions, highlights) — but
+  it's just you. No audience, no performance.
+- The apps we use most every day are isolated, and switching between them to find what
+  you needed isn't fun. mtl is designed the way your mind actually looks for things.
+- You associate things with a feeling or mood — and that's where mixes come in. A saved
+  item can belong to multiple mixes, so opening a mood mix surfaces whatever you need:
+  a note, an audio clip, a video, a photo, a link, anything.
 
 ## A day with mtl
 
