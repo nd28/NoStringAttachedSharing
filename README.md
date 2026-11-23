@@ -20,7 +20,7 @@ because anyone asked.
 
 | File | What it is |
 |------|------------|
-| [`nvim-video-share.md`](./nvim-video-share.md) | Why I'm sharing *"Effective Neovim setup for agentic coding towards 2027"* — and why it might click for you too |
+| [`nvim-video-share.md`](./nvim-video-share.md) | 🤓 Nerd alert — Why I'm sharing *"Effective Neovim setup for agentic coding towards 2027"* |
 | [`nvim-basics.md`](./nvim-basics.md) | A gentle, zero-jargon introduction to Neovim for absolute beginners |
 | [`glossary.md`](./glossary.md) | Plain-language definitions for the terms that show up in Neovim land |
 

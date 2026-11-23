@@ -1,4 +1,4 @@
-# Sharing: Effective Neovim setup for agentic coding towards 2027
+# 🤓 Nerd alert: Sharing "Effective Neovim setup for agentic coding towards 2027"
 
 **Video:** [Effective Neovim setup for agentic coding towards 2027](https://youtu.be/BhGWcQtq408)
 **Creator:** [devaslife](https://www.youtube.com/@devaslife)
