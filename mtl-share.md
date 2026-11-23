@@ -1,8 +1,8 @@
 # Sharing: mtl — a local-first mood mix app
 
 **Repo:** [nd28/mtl](https://github.com/nd28/mtl)
-**Latest build:** [MTL v0.1.0 debug 1 (APK)](https://github.com/nd28/mtl/releases/download/v0.1.0-debug.1/app-debug.apk)
-*(This is currently a pre-release debug build; there is no stable "latest" redirect yet.)*
+**Latest build:** [Download latest APK](https://github.com/nd28/mtl/releases/latest/download/app-debug.apk)
+*(Points at the newest non-prerelease release. If it 404s, grab the newest build from the [releases page](https://github.com/nd28/mtl/releases).)*
 
 ## What it is
 
