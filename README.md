@@ -8,12 +8,6 @@ changed how I work, tools that stuck, notes from late-night rabbit holes, and th
 occasional "you have to see this" recommendation. Shared because I enjoyed them, not
 because anyone asked.
 
-## Why "no string attached"?
-
-Because the best recommendations feel like a friend sliding something across the table
-and saying "try this, no pressure." That's the energy here. If something helps you,
-great. If it doesn't, no hard feelings — we were never attached.
-
 ## What's inside
 
 | File | What it is |
@@ -38,4 +32,4 @@ that's a bug in my writing — open an issue or PR and help me fix it.
 ## Contributing
 
 Spotted something wrong, or have a resource worth sharing? PRs and issues are welcome.
-Keep it kind, keep it honest, keep it string-free.
+Keep it kind and honest.
