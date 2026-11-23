@@ -14,7 +14,7 @@ because anyone asked.
 
 | File | What it is |
 |------|------------|
-| [`mtl-share.md`](./mtl-share.md) | mtl — a local-first mood mix app: features, purpose, and a download link |
+| [`mtl-share.md`](./mtl-share.md) | mtl (pronounced "metal") — a local-first mood mix app: features, purpose, and a download link |
 
 ### Neovim
 

@@ -1,4 +1,4 @@
-# Sharing: mtl — a local-first mood mix app
+# Sharing: mtl (pronounced "metal") — a local-first mood mix app
 
 **Repo:** [nd28/mtl](https://github.com/nd28/mtl)
 **Latest build:** [Download latest APK](https://github.com/nd28/mtl/releases/latest/download/app-debug.apk)
