@@ -1,0 +1,50 @@
+# Sharing: mtl — a local-first mood mix app
+
+**Repo:** [nd28/mtl](https://github.com/nd28/mtl)
+**Latest build:** [MTL v0.1.0 debug 1 (APK)](https://github.com/nd28/mtl/releases/download/v0.1.0-debug.1/app-debug.apk)
+*(This is currently a pre-release debug build; there is no stable "latest" redirect yet.)*
+
+## What it is
+
+**mtl** is a local-first app for "mood mixes": playlists made of notes, articles, photos,
+videos, audio sketches, saved links and small games, plus a cabinet of shelves and highlights.
+Everything is stored on your device in IndexedDB — there is no backend and no account.
+
+It runs as a TanStack Start SPA wrapped with Capacitor for Android, and also works in a browser
+as a PWA.
+
+## Why I'm sharing it
+
+- It is a fully offline, no-account app — your data stays on your device.
+- It is built to be shared into: from Instagram, YouTube, Pinterest etc. via the Android
+  share sheet, or as a PWA share target.
+- It shows how far a local-first, single-device app can go without a server.
+
+## What you can do
+
+- **Today** — greeting, resume a mix, see new saves and shelf highlights.
+- **Feed** — stream of saves with type filters.
+- **Save** — quick-save: paste a link, pick media, record (also the share-target landing page).
+- **Mixes** — create playlists ("mixes") and get suggestions for a mood; play a mix.
+- **Items** — per-type detail pages with reactions, comments, save and highlight.
+- **Compose** — create and edit all item types.
+- **Cabinet / shelves / highlights** — organize and pin what matters.
+- **Games** — small built-in games.
+- **Settings** — preferences and data management.
+
+## Backups
+
+Auto-backups and exports go to `Documents/mtl-backups/` on the device.
+
+## Installing the Android build
+
+1. Download `app-debug.apk` from the release link above.
+2. On your Android device, allow installing from your browser/file manager.
+3. Open the APK and install.
+
+Note: this is a debug build, so expect rough edges. A release build will follow.
+
+## Notes
+
+- No network traffic beyond your own device; safe to use offline.
+- If you hit issues, the project tracker is [`TRACKER.md`](https://github.com/nd28/mtl/blob/main/TRACKER.md).
