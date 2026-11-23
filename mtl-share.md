@@ -23,7 +23,7 @@ Everything is stored on your device in IndexedDB — there is no backend and no 
 - **Feed** — stream of saves with type filters.
 - **Save** — quick-save: paste a link, pick media, record (also the share-target landing page).
 - **Mixes** — create playlists ("mixes") and get suggestions for a mood; play a mix.
-- **Items** — per-type detail pages with reactions, comments, save and highlight.
+- **Items** — per-type detail pages with reactions, comments (add your thoughts when you revisit a save), save and highlight.
 - **Compose** — create and edit all item types.
 - **Cabinet / shelves / highlights** — organize and pin what matters.
 - **Games** — small built-in games.
