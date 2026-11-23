@@ -5,8 +5,8 @@
 
 This repo is a small, living collection of things I've learned and loved: videos that
 changed how I work, tools that stuck, notes from late-night rabbit holes, and the
-occasional "you have to see this" recommendation. No agenda, no upsell — just genuine
-enthusiasm, shared openly.
+occasional "you have to see this" recommendation. Shared because I enjoyed them, not
+because anyone asked.
 
 ## Why "no string attached"?
 
