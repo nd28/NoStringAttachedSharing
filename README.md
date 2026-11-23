@@ -1,10 +1,41 @@
-# NoStringAttachedSharing
+# No String Attached Sharing
 
-This includes my learnings and my recommendations for the right person who would appreciate.
-Maybe you are that person — look around and find out.
+> *Some things are too good to keep to yourself — and too personal to force on anyone.*
+> *So here they are, with no strings attached. Take what speaks to you, leave the rest.*
 
-## Shares
+This repo is a small, living collection of things I've learned and loved: videos that
+changed how I work, tools that stuck, notes from late-night rabbit holes, and the
+occasional "you have to see this" recommendation. No agenda, no upsell — just genuine
+enthusiasm, shared openly.
 
-- [nvim-video-share.md](./nvim-video-share.md) — why I'm sharing "Effective Neovim setup for agentic coding towards 2027" + pointers to basics and glossary.
-- [nvim-basics.md](./nvim-basics.md) — gentle introduction to Neovim for absolute beginners.
-- [glossary.md](./glossary.md) — plain-language definitions for Neovim and video terms. 
+## Why "no string attached"?
+
+Because the best recommendations feel like a friend sliding something across the table
+and saying "try this, no pressure." That's the energy here. If something helps you,
+great. If it doesn't, no hard feelings — we were never attached.
+
+## What's inside
+
+| File | What it is |
+|------|------------|
+| [`nvim-video-share.md`](./nvim-video-share.md) | Why I'm sharing *"Effective Neovim setup for agentic coding towards 2027"* — and why it might click for you too |
+| [`nvim-basics.md`](./nvim-basics.md) | A gentle, zero-jargon introduction to Neovim for absolute beginners |
+| [`glossary.md`](./glossary.md) | Plain-language definitions for the terms that show up in Neovim land |
+
+## Where to start
+
+New to Neovim? Read [`nvim-basics.md`](./nvim-basics.md) first, then the
+[`glossary.md`](./glossary.md) when a word confuses you.
+
+Already comfortable? Jump straight to [`nvim-video-share.md`](./nvim-video-share.md)
+and watch the video — it's ASMR, no talking, just a beautiful setup coming together.
+
+## A note on tone
+
+Everything here is written to be welcoming, never gatekeeping. If a term is confusing,
+that's a bug in my writing — open an issue or PR and help me fix it.
+
+## Contributing
+
+Spotted something wrong, or have a resource worth sharing? PRs and issues are welcome.
+Keep it kind, keep it honest, keep it string-free.
