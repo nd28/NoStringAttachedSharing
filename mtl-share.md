@@ -10,9 +10,6 @@
 videos, audio sketches, saved links and small games, plus a cabinet of shelves and highlights.
 Everything is stored on your device in IndexedDB — there is no backend and no account.
 
-It runs as a TanStack Start SPA wrapped with Capacitor for Android, and also works in a browser
-as a PWA.
-
 ## Why I'm sharing it
 
 - It is a fully offline, no-account app — your data stays on your device.
@@ -43,6 +40,10 @@ Auto-backups and exports go to `Documents/mtl-backups/` on the device.
 3. Open the APK and install.
 
 Note: this is a debug build, so expect rough edges. A release build will follow.
+
+## Technical details (optional)
+
+- Built as a TanStack Start SPA, wrapped with Capacitor for Android, and also runnable in a browser as a PWA.
 
 ## Notes
 
