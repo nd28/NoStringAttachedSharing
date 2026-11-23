@@ -18,8 +18,8 @@ Everything is stored on your device in IndexedDB — there is no backend and no 
    to capture a meeting (audio sketch) or a quiet moment (note + photo). Give it a short title
    and a vibe (mood tag) that matches how it feels.
 3. Save it — it shows up on Today and in the Feed.
-4. Go to **Mixes → New mix**, name it after the moment (e.g. "Peaceful morning"), and add the
-   captures you just made.
+4. Go to **Mixes**, then tap the three-dots menu at the top and choose **New mix**. Name it
+   after the moment (e.g. "Peaceful morning") and add the captures you just made.
 5. Open the mix and press play to walk through everything you captured.
 6. Later, open any item and leave a comment — it'll be there when you revisit.
 
