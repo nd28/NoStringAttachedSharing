@@ -30,11 +30,6 @@ Pick whatever interests you. If Neovim is new to you, [`nvim-basics.md`](./nvim-
 is a friendly entry point; otherwise the [`glossary.md`](./glossary.md) covers the
 vocabulary. For the app, head to [`mtl-share.md`](./mtl-share.md).
 
-## A note on tone
-
-Everything here is written to be welcoming, never gatekeeping. If a term is confusing,
-that's a bug in my writing — open an issue or PR and help me fix it.
-
 ## Contributing
 
 Spotted something wrong, or have a resource worth sharing? PRs and issues are welcome.
